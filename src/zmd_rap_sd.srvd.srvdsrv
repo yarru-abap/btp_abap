@@ -1,0 +1,4 @@
+@EndUserText.label: 'service def'
+define service Zmd_rap_sd {
+  expose zmd_rap;
+}
